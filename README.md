@@ -1,4 +1,4 @@
-​​# Build it
+# Build it
 <b> Build it </b> challenges run in The Akamai Community Github. This is a collection of contests where developers from all levels of experience and backgrounds can potentially win SWAG and  other prizes for creating code, content, games, and art around the challenge prompt.
 Submitted entries may be voted on by The Dev Advocacy Team, and/or official partners and experts, depending on the specifics of the challenge.
 
