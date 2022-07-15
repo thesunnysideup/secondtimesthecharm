@@ -1,7 +1,6 @@
 theme: jekyll-theme-minimal
-title: Minimal theme
+title: Testing
 logo: https://www.logodesignlove.com/wp-content/uploads/2022/01/logo-wave-symbol-01.jpg
 description: Testing text is fun
-show_downloads: true
-google_analytics:
+show_downloads: false
 theme: jekyll-theme-minimal
