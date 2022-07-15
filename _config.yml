@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Minimal theme
-logo: /assets/img/_logo.png
+logo: https://github.com/thesunnysideup/secondtimesthecharm/blob/gh-pages/assets/img/_logo.png
 description: Testing text is fun
 show_downloads: true
 google_analytics:
